@@ -1,2 +1,2 @@
 # Harry
-Harry bot for HelpChat discord
+Harry bot for ChatChat Discord
